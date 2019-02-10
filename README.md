@@ -1,6 +1,10 @@
 # AudioInteractions
 Some interactive audio behaviours
 
+## Warning
+
+This repository uses [GitLFS](https://git-lfs.github.com/) to manage large files. If you download from the website and open it all the audio and object files will be placeholders. You need to [pull the lfs files, follow the tutorial linked here](https://github.com/git-lfs/git-lfs/wiki/Tutorial#pulling-and-cloning)
+
 ## Copyright
 
 All the sound files used are from [freesound](https://freesound.org/), if you use them in any projects you must credit the creators! Files will be named as they are in freesound.
