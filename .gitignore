@@ -33,3 +33,5 @@ sysinfo.txt
 
 # Builds
 *.apk
+Assets/ResonanceAudio/Demos/
+Assets/ResonanceAudio/Demos.meta
